@@ -20,7 +20,7 @@ How to Use
 
 * Clone the repo.
 * Install the dependencies from requirements.txt.
-* Add your own API key in the .env file or inside app.py (where the key is used).
+* Add your own API key in the .env file or inside chatbot.py (where the key is used).
 * Run the app using: streamlit run app.py
 
 
@@ -28,4 +28,5 @@ How to Use
 
 
 Start asking anything about Dubai.
+
 
