@@ -27,7 +27,8 @@ How to Use
 
 
 
-Start asking anything about Dubai.
+Start Planning your Dubai Trip.
+
 
 
 
